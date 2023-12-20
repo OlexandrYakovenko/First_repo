@@ -163,4 +163,6 @@ while PLAYING:
             enemies.pop(enemies.index(enemy))
     for bonus in bonuses:
         if bonus[1].bottom >HEIGHT:
-            bonuses.pop(bonuses.index(bonus))                 
+            bonuses.pop(bonuses.index(bonus))    
+            
+#add some random text for testing GitHub             
